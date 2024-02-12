@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="helpercall">
+ <run>
+  <RunDate>2024-02-12 09:36:18.655 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.006000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240212_093618.655/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in helpercall:
+Syntax Error at line 3: can&#x27;t understand [end of line] at character 19</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-02-12 09:37:23.849 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.040000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240212_093723.849/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,3 @@
+﻿2024-02-12 09:36:18.658 -0700	START		Running helpercall.script
+2024-02-12 09:36:18.663 -0700	EndTestCase		(Duration:"0.001", Errors:"1", Exceptions:"0", StartTime:"2024-02-12 09:36:18 -0700", Successes:"0", TestCase:"helpercall.script", Warnings:"0")
+2024-02-12 09:36:18.682 -0700	FAILURE		SenseTalk Compiler Exception: in helpercall:\nSyntax Error at line 3: can't understand [end of line] at character 19 -- Execution Time 0:00:00 helpercall.script

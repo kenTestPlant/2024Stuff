@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="helpercall">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2024-02-12 09:36:18 -0700</FirstRun>
+  <LastRun>2024-02-12 09:37:23 -0700</LastRun>
+  <TotalTimeOnSuccess>0.040000</TotalTimeOnSuccess>
+ </script>
+</statistics>

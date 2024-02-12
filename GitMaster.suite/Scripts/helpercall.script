@@ -1,0 +1,3 @@
+﻿log "calling helper script"
+
+Run "C:/Users/keandrus/Documents/Githelper.suite/Scripts/CalledFromMaster"

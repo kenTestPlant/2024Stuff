@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running helpercall.script",
+				"identifier": "START",
+				"timestamp": "2024-02-12 09:37:23.852 -0700"
+			},
+		{
+				"handlerName": "on_helpercall",
+				"timestamp": "2024-02-12 09:37:23.875 -0700",
+				"message": "calling helper script",
+				"scriptName": "helpercall.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_calledfrommaster",
+				"timestamp": "2024-02-12 09:37:23.879 -0700",
+				"message": "I got called",
+				"scriptName": "C:/Users/keandrus/Documents/Githelper.suite/Scripts/CalledFromMaster.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.035\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-02-12 09:37:23 -0700\", Successes:\"1\", TestCase:\"helpercall.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-02-12 09:37:23.890 -0700"
+			},
+		{
+				"message": "Execution Time 0:00:00 helpercall.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-02-12 09:37:23.915 -0700"
+			}
+	],
+	"createdTimestamp": "2024-02-12 09:37:23.855 -0700"
+}

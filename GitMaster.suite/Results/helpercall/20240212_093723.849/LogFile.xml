@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="helpercall_script" package="GitMaster.suite" timestamp="2024-02-12 09:37:23.849 -0700"
+ tests="1"  failures="0" errors="0" time="0.040000">
+  <properties>
+   <property name="RunDate" value="2024-02-12 09:37:23.849 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="helpercall.script" assertions="1" status="success"  time="0.035">
+  </testcase>
+ </testsuite>
+</testsuites>

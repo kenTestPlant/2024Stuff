@@ -1,0 +1,5 @@
+﻿2024-02-12 09:37:23.852 -0700	START		Running helpercall.script
+2024-02-12 09:37:23.875 -0700	Log		calling helper script	1	on_helpercall	helpercall.script
+2024-02-12 09:37:23.879 -0700	Log		I got called	1	on_calledfrommaster	C:/Users/keandrus/Documents/Githelper.suite/Scripts/CalledFromMaster.script
+2024-02-12 09:37:23.890 -0700	EndTestCase		(Duration:"0.035", Errors:"0", Exceptions:"0", StartTime:"2024-02-12 09:37:23 -0700", Successes:"1", TestCase:"helpercall.script", Warnings:"0")
+2024-02-12 09:37:23.915 -0700	SUCCESS		Execution Time 0:00:00 helpercall.script
