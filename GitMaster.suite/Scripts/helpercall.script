@@ -2,4 +2,6 @@
 
 log "made a change today"
 
+log "made another change"
+
 Run "C:/Users/keandrus/Documents/Githelper.suite/Scripts/CalledFromMaster"
