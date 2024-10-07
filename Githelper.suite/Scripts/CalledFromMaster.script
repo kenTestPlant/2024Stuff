@@ -2,4 +2,6 @@
 
 log "hey this should show up in the log file!"
 
+log "did this cause the problem?"
+
 Connect crap
